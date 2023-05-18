@@ -1,5 +1,12 @@
 div{
+<<<<<<< HEAD
     background-color: red;
     color: white;
     font-size: 32px;
   }
+=======
+  background-color: red;
+  color: white;
+  font-size: 32px;
+}
+>>>>>>> 9e63f0db45583ee7b52f4a0451044098164e3ac9
