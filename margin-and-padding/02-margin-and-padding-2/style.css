@@ -11,10 +11,13 @@ body {
 
 .title {
   background: #e3f4ff;
+  border: 10px solid white;
+
 }
 
 .content {
   background: #e3f4ff;
+  padding: 20px;
 }
 
 .button-container {
