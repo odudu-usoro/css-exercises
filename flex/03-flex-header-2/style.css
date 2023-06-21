@@ -48,3 +48,8 @@ a {
 ul {
   list-style-type: none;
 }
+
+.right-side{
+  display: flex;
+  flex: 1;
+}
